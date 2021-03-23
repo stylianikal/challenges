@@ -1,0 +1,63 @@
+Answers
+=======
+
+Q1.1: Commit message of the very first commit to this repository
+
+
+
+
+Q1.2: Answer needs to be committed separately
+
+
+
+
+Q1.3: Output of program test.c
+
+
+
+
+Q1.3: What is test.c computing?
+
+
+
+
+Q1.4: Output of test.py for 1,2,a
+
+
+
+
+Q1.4: Output of test.py for 7,5,d
+
+
+
+
+Q1.4: Output of test.py for 20,7,s
+
+
+
+
+Q1.4: Output of test.py for 20,7,s,2,m
+
+
+
+
+Q1.4: Input that gives an output of 63.0
+
+
+
+
+Q1.5: Answer needs to be committed separately
+
+
+
+
+Q1.6: Output of program test.go
+
+
+
+
+Q1.6: Any modification to test.go needs to be committed separately.
+
+
+
+
