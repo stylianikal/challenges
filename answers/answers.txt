@@ -23,28 +23,28 @@ greatest common divisor
 
 Q1.4: Output of test.py for 1,2,a
 
-
+3.0
 
 
 Q1.4: Output of test.py for 7,5,d
 
-
+1.4
 
 
 Q1.4: Output of test.py for 20,7,s
 
-
+13.0
 
 
 Q1.4: Output of test.py for 20,7,s,2,m
 
-
+26.0
 
 
 Q1.4: Input that gives an output of 63.0
 
-
-
+23,2,s,3,m
+Reverse Polish notation calculator
 
 Q1.5: Answer needs to be committed separately
 
