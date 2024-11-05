@@ -3,7 +3,7 @@ Answers
 
 Q1.1: Commit message of the very first commit to this repository
 
-
+We hope this task was easy.
 
 
 Q1.2: Answer needs to be committed separately
