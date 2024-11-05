@@ -30,9 +30,11 @@ public class Test {
         @Override
         public void run() {
             for (int i = 0; i < n_; i++) {
+                synchronized(counter_) {
                 int value = counter_.getValue();
                 value += d_;
                 counter_.setValue(value);
+                }
             }
         }
     }
