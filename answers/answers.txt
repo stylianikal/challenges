@@ -12,13 +12,13 @@ Q1.2: Answer needs to be committed separately
 
 
 Q1.3: Output of program test.c
-
-
-
-
+2, 3 -> 1 
+2, 4 -> 2
+3, 9 -> 3 
+11, 32 -> 1
 Q1.3: What is test.c computing?
 
-
+greatest common divisor
 
 
 Q1.4: Output of test.py for 1,2,a
