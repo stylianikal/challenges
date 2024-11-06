@@ -48,7 +48,7 @@ Reverse Polish notation calculator
 
 Q1.5: Answer needs to be committed separately
 
-
+note: you have a a syntax error on example.sql because the strings for Steve and Alex are not properly closed with single quotes.
 
 
 Q1.6: Output of program test.go
