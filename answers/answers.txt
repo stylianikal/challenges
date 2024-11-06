@@ -53,7 +53,7 @@ note: you have a a syntax error on example.sql because the strings for Steve and
 
 Q1.6: Output of program test.go
 
-
+3.232315809406
 
 
 Q1.6: Any modification to test.go needs to be committed separately.
