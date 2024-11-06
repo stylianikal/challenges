@@ -52,9 +52,9 @@ note: you have a a syntax error on example.sql because the strings for Steve and
 
 
 Q1.6: Output of program test.go
-
 3.232315809406
-
+The output seems to be a value close to π, but not exact due to the limited number of terms in the series.
+The number π, is a mathematical constant that is the ratio of a circle's circumference to its diameter, approximately equal to 3.14159.
 
 Q1.6: Any modification to test.go needs to be committed separately.
 
